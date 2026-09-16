@@ -8,3 +8,5 @@ cinco
 seis
 siete
 ocho
+once
+doce
