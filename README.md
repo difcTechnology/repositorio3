@@ -2,5 +2,7 @@
 uno
 cuatro
 tres
+cuatro
 cinco
+seis
 
