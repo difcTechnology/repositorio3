@@ -21,3 +21,4 @@ siete
 ocho
 once
 doce
+se desestima
