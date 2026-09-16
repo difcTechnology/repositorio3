@@ -4,3 +4,7 @@ cuatro
 tres
 cinco
 
+cinco
+seis
+siete
+ocho
