@@ -12,4 +12,6 @@ tres
 cuatro
 nueva
 diez
+trece
+catorce
 
