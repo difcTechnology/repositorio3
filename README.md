@@ -6,3 +6,8 @@ cuatro
 cinco
 seis
 
+uno
+dos
+tres
+cuatro
+
